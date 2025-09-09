@@ -1,6 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : A A JANSI RANKI
+Name : A A JANSI RANI
+
 Roll no : 212224040130
+
 Date of experiment :09.09.2025
 
 
@@ -99,6 +101,7 @@ mov [6060h],ax
 ret
 
 ```
+
 ## Output  
 
 <img width="1366" height="768" alt="Screenshot (450)" src="https://github.com/user-attachments/assets/21ed5482-ccde-4340-bd18-aa9971930498" />
