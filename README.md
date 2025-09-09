@@ -102,14 +102,21 @@ ret
 
 ```
 
+
+
+
+
+
 ## Output  
 
 <img width="1366" height="768" alt="Screenshot (450)" src="https://github.com/user-attachments/assets/21ed5482-ccde-4340-bd18-aa9971930498" />
 
 
+
+
 ## Result :
  
-Result :The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
+The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
 
 
 
